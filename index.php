@@ -8,3 +8,4 @@ if (true) {
         echo $i;
     }
 }
+$var = true;
